@@ -16,6 +16,7 @@ header h1{
 header img{
   float: left;
  margin-left: 10px;
+ margin-top: 10px;
 }
 
 header nav{
@@ -49,7 +50,9 @@ header nav ul li a{
 .image-containar{
   display: inline-block;
   height: 450px;
- 
   margin-left:300px;
+  font-size: 30x;
+  text-align: center;
+  color:  #344fa1;
 
 }
