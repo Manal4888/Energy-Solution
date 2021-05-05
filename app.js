@@ -22,4 +22,3 @@ else {document.write('<h2> Try again, please use capital letters')}
 console.log(typeOfService);
 
 confirm ("you are inetesrted in our services")
-
