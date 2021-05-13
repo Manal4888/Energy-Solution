@@ -61,7 +61,7 @@ selectTypeOfService() // call the function
 document.write(result1,result2) //show the results
 
 
-confirm ("is this your first time visiting our website?,see below")
+confirm ("is this your first time visiting our website?")
 
 
 /* Replace this part by Function Expression
@@ -83,7 +83,7 @@ for (var i=0; i < ratingFactor ; i++ ){
 
 var showRating=function() { 
 
-var ratingFactor = prompt(" Please rate our website ");
+var ratingFactor = prompt(" Please rate our website ,see below");
 
 if (ratingFactor > 5){
   ratingFactor = 5;
@@ -105,11 +105,9 @@ showRating()
 
 
 
-
-
-     
   
   
+
 
 
 
